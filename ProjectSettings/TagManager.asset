@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gas
+  - POI
+  - Abanico
+  - Padres
+  - MusicaPadres
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - UIX
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 3510811039
+    locked: 0
+  - name: Objetos
+    uniqueID: 576083825
+    locked: 0
+  - name: GasOscuro
+    uniqueID: 817785047
+    locked: 0
+  - name: Personaje
+    uniqueID: 4122376801
+    locked: 0
+  - name: GasClaro
+    uniqueID: 3502043121
+    locked: 0
+  - name: EdificiosAbajo
+    uniqueID: 484314251
+    locked: 0
+  - name: UI
+    uniqueID: 679350095
+    locked: 0

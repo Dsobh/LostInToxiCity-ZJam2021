@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: dc9ae364ce2e4b04d8567bf5dae0a38d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF Intoxicated Blues Shaded
+  fontNames:
+  - SF Intoxicated Blues Shaded
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e95a04f109a62944db0ccaf0c035e43b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
